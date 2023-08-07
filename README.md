@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dewa</h1>
-<h3 align="center">A passionate Ml and Flutter developer from India</h3>
+<h3 align="center">A passionate ML and Flutter developer from India</h3>
 
 - 🌱 I’m currently learning **devOps,mlOps**
 
