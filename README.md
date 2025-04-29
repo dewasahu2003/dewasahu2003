@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm Dewa</h1>
-<h3 align="center">A passionate ML and Flutter developer from India</h3>
+<!-- Introduction -->
+<h1 align="center">Hi 👋, I’m <span style="color:#f36521;"><strong>Dewa Sahu</strong></span></h1>
+<p align="center"><em>Machine Learning &amp; MLOps Engineer • Flutter Developer</em></p>
 
-- 🌱 I’m currently learning **devOps,mlOps**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-beryl-seven-13.vercel.app/)
-
-- 📫 How to reach me **dewasahu2003@gmail.com**
-
-- 📄 Know about my experiences [by my resume](https://drive.google.com/file/d/1kgx-6lvSabld70-l_kgwAOyjpH0N5sJj/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/dewasahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dewasahu" height="30" width="40" /></a>
-<a href="https://instagram.com/dewa.sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewa.sahu" height="30" width="40" /></a>
+<!-- Quick Stats -->
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=dewasahu2003&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dewasahu2003&theme=dark" alt="Streak Stats"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Highlights -->
+## 🌟 **Highlights**
+- **2× internships**: Flutter Intern @ SheenAI, ML Engineer Intern @ Realply (POC & MLOps infra praised!).
+- **Open‑Source Buff**: Fixed sponsor logos in LAION‑AI, patched Transformers dtype bugs, squashed AutoGPT NoneType errors.
+- **Competition Cred**: Built **Business Drive** bot in AWS PartyRock ’24 to supercharge biz strategy.
+- **Certifications**: AWS DevOps, Duke MLOps, Systems Expert, AlgoExpert ML, HuggingFace RL.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewasahu2003&show_icons=true&theme=dark&title_color=f36521&text_color=535353&hide_border=true&locale=en&layout=compact" alt="dewasahu2003" /></p>
+<!-- Personal Projects -->
+## 🚀 **Top Personal Projects**
+- **CanineFeelings** (Sep ‘23): On‑device dog emotion detector (🎯 **95% accuracy**, Flutter + TFLite isolates).
+- **Kai** (Feb ‘25): Full‑stack Qdrant + React app on AWS Elastic Beanstalk for lightning-fast vector search.
+- **PdfPal** (Nov ‘24): RAG PDF chatbot via LangChain & Qdrant, Dockerized & StreamLit UI—**production‑ready**!
+- **Stable Diffusion Editor** (Dec ‘24): Semantic masking for bg/object swaps; polished artifacts with AI post‑processing.
+- **NASA ETL Pipeline** (Nov ‘24): Airflow + PostgreSQL + Docker for daily APOD ETL; seamless AWS RDS integration.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewasahu2003&theme=dark" alt="dewasahu2003" /></p>
+<!-- Skills -->
+## 🛠️ **Skills &amp; Tools**
+**Languages:** Python • Dart • Rust • Go • JavaScript  
+**Frameworks:** PyTorch • TensorFlow • HuggingFace • Flutter • LangChain  
+**Cloud & DB:** AWS • Qdrant • MongoDB • Docker • Airflow • MLflow  
+**DevOps:** GitHub Actions • ZenML • DVC • Poetry • StreamLit  
 
+<!-- Contact -->
+## 📫 **Connect with Me**
+- 📧 <strong>dewa41sahu@gmail.com</strong>
+- 🔗 [Portfolio](https://portfolio-beryl-seven-13.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dewasahu)
+- 🐙 [GitHub](https://github.com/dewasahu2003)
+- 🤗 [HuggingFace](https://huggingface.co/Dewa)
+
+<!-- Humor -->
+> _"Ready to debug my life choices or your codebase? Let’s connect!_ 😉
