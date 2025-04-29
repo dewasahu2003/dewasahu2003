@@ -32,7 +32,7 @@
 <!-- Contact -->
 ## 📫 **Connect with Me**
 - 📧 <strong>dewa41sahu@gmail.com</strong>
-- 🔗 [Portfolio](https://portfolio-beryl-seven-13.vercel.app/)
+- 🔗 [Portfolio](https://sugary-radium-219.notion.site/24c4c51b39f14e169f50e37eba034f7b?v=67ea5f12195f403db02ce9aade254889)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dewasahu)
 - 🐙 [GitHub](https://github.com/dewasahu2003)
 - 🤗 [HuggingFace](https://huggingface.co/Dewa)
